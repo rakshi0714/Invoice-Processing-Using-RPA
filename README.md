@@ -20,6 +20,6 @@ From the previously created folder, the data for the specific company gets seper
 The input data file is a pdf file.
 The input file gets read and that is written into the excel file.
 
-##Advantages of the Automation process:
+## Advantages of the Automation process:
 Due to the automation process the time complexity gets reduced
 The chances of occurence of errors are very low
