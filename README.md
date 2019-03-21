@@ -10,16 +10,16 @@ The invoice system is used to overcome the entire problem which they are facing 
 
 ## MODULE SPLITUP:
 Module 1: Mail Automation [Rakshana]
-The input file is received from the mail.
-The received input file get stored in the respective folder.
+<li>The input file is received from the mail.</li>
+<li>The received input file get stored in the respective folder.</li>
 
 ## Module 2: Split into folder [NandhaKumar]
-From the previously created folder, the data for the specific company gets seperated and it is stored to the another folder which will be created automatically.
+<li>From the previously created folder, the data for the specific company gets seperated and it is stored to the another folder which will be created automatically.</li>
 
 ## Module 3: Convert PDF to Excel [SuryaKala]
 <li>The input data file is a pdf file.</li>
 <li>The input file gets read and that is written into the excel file.</li>
 
 ## Advantages of the Automation process:
-Due to the automation process the time complexity gets reduced
+<li>Due to the automation process the time complexity gets reduced</li>
 <li>The chances of occurence of errors are very low.</li>
