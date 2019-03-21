@@ -1,6 +1,9 @@
  # INVOICE PROCESSING USING RPA
  ## TEAM NUMBER : 16
  ## TEAM MEMBERS :
+ <li>Nandha Kumar.A - 711715104042 - Analyze the file and move to seperate folder</li>
+ <li>Rakshana.B - 711715104047 - Mail Automation</li>
+ <li>Surya Kala.M - 711715104060 - The Pdf document gets converted into Excel file.</li>
  
 ## ABSTRACT:
 Invoice processing is the entire process your company's accounts payable uses to handle supplier invoices. It starts when you receive an invoice and finishes when payment has been made and recorded in the general ledger. You can receive paper invoices, PDF, or other electronic means. Invoice processing consist of several data which are of different formats. The data gets analyzed and it is stored in the respective folder accordingly. The data that is stored is in a pdf file and we have to convert that to the excel file.
