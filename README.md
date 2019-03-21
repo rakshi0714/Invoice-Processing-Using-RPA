@@ -17,9 +17,9 @@ The received input file get stored in the respective folder.
 From the previously created folder, the data for the specific company gets seperated and it is stored to the another folder which will be created automatically.
 
 ## Module 3: Convert PDF to Excel [SuryaKala]
-The input data file is a pdf file.
-The input file gets read and that is written into the excel file.
+<li>The input data file is a pdf file.</li>
+<li>The input file gets read and that is written into the excel file.</li>
 
 ## Advantages of the Automation process:
 Due to the automation process the time complexity gets reduced
-The chances of occurence of errors are very low
+<li>The chances of occurence of errors are very low.</li>
