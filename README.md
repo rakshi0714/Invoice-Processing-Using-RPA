@@ -14,8 +14,8 @@ The invoice system is used to overcome the entire problem which they are facing 
 
 ## Advantages of the Automation process:
 
- The Humans are under the era of committing the mathematical and parallax errors while in terms of the RPA the errors are                   very low.          
- The work can be done faster and efficient from man-hours and man-years to Minutes and Seconds   
+ <u1><li>The Humans are under the era of committing the mathematical and parallax errors while in terms of the RPA the errors are                   very low. </li>         
+ <li>The work can be done faster and efficient from man-hours and man-years to Minutes and Seconds </li></u1>  
         
 ## TEAM NUMBER: 16
 
