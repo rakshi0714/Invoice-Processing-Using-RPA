@@ -30,3 +30,6 @@ Module 1: Mail Automation [Rakshana]
 
 ## Future Enhancement
 Invoice processing using RPA The other automationcan also automatically backup data, carry out system maintenance and also help the user if the errors arise.
+
+## Project Status:
+Project is completed(100%)
